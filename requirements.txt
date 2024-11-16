@@ -1,0 +1,5 @@
+jieba
+pandas
+pyldavis
+gutenbergpy
+gensim
